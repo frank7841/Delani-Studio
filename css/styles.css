@@ -42,4 +42,21 @@
     }
   }
 /*Mouse Click animation*/  
+.about-us{
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top:40px;
+    line-height: 2.5em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Our-Services {
+    text-align: center;
+    background-image: url("../assets/backgrounds/s_image.jpg");
+    color: white;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 18px;
+}
   
