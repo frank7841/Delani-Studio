@@ -64,7 +64,6 @@ $(function(){
         $("#overlay8").hide();
       });
       $("form#myform").submit(function(event){
-        // event.preventDefault();
         var name = $("input#merge1").val();
         var email = $("input#merge0").val();
         var message = $("textarea#comment").val();
