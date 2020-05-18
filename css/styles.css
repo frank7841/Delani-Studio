@@ -79,4 +79,13 @@ h2.text-center {
   #design {
       display: none;
   }
+  #development {
+      display: none;
+  }
+  #product {
+      display:none;
+  }
+  .bold {
+      font-weight: bolder;
+  }
   
