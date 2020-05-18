@@ -116,7 +116,15 @@ h2.text-center {
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
+    margin-top: 2em;
 }  
+.contact h2{
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
 input[type=text],input[type=email],#comment{
     background: transparent;
     color: white;
@@ -142,6 +150,14 @@ button{
     margin-left: 45%;
     padding-bottom: 30px;
     margin-bottom: 20px;
+}
+footer{
+    text-align: center;
+    padding-top: 30px;
+    font-family: 'PT Sans', sans-serif;
+}
+  footer p{
+    margin-top: 10px;
 }
   
 
