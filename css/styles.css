@@ -75,17 +75,29 @@ h2.text-center {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     padding-top: 40px;
-  }
+}
   #design {
       display: none;
-  }
+}
   #development {
       display: none;
-  }
+}
   #product {
       display:none;
-  }
+}
   .bold {
       font-weight: bolder;
+}
+  #portfolio{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left:18%;
+    margin-right: 16%; 
+}
+.col-md-3 img{
+    max-width: 100%;
+    max-height: 100%;
   }
+
   
