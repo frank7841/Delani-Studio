@@ -63,4 +63,17 @@ $(function(){
       }).mouseout(function(){
         $("#overlay8").hide();
       });
+      $("form#myform").submit(function(event){
+        // event.preventDefault();
+        var name = $("input#merge1").val();
+        var email = $("input#merge0").val();
+        var message = $("textarea#comment").val();
+        if ($("input#merge1").val() && $("input#merge0").val()){
+          alert (name + ", we have received your message. Thank you for reaching out to us.");
+        }
+        else {
+          alert("Please enter your name and email!");
+        }
+        
+      });
 });
