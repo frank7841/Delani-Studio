@@ -18,4 +18,4 @@ In case you run into issues or have a question or would like to make a contribut
 franklinewax@gmail.com
 ### License
 License changes will be made
-Copyright (c) 2020 ** Abubakar Ramadhan** 
+Copyright (c) 2020 ** Frankline Simiyu** 
